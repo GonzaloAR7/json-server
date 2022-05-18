@@ -1,3 +1,10 @@
 {
-"userId": 6,"id": 115,"title": "sed et ea eum","completed": false
+  "usuarios": [
+    {
+        "userId": 6,
+        "id": 115,
+        "title": "sed et ea eum",
+        "completed": false
+    }
+  ]
 }
